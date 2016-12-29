@@ -1,0 +1,62 @@
+[PRE-ANN] 
+RESPECTONOMY - A Decentralized Social Network
+
+LOGO
+
+INTRODUCTION
+Respectonomy is a decentralized, self-moderated social network system that gives the user the freedom to share their thoughts without the fear of censorship while rewarding them for it. Though modern social networks provide a platform for free information exchange, it is just an illusion of freedom as some sort of moderation or censorship is often used. 
+
+Respectonomy began as a group of developers who wanted to make a community for content creators to earn money. This project aims to assign value to data, measuring the quality of inherent information, and to provide a mechanism for fairly compensating data bandwidth availability. 
+
+Respectonomy will be an open-source, browser based implementation, that utilizes the Bittorrent protocol for content sharing and a proof of work blockchain to determine the value of the RESPECT token that runs the system. Being an independent token, unlike colored coins, the PoW blockchain system that Respectonomy flows on, represents a closed network with dynamic membership of parties, and this determines its true value in a free-market.
+
+
+	NEED FOR A NEW SYSTEM
+	Most social networks on the internet today are free to use. These networks face a problem of content curation where spammers and trollers can freely post content without investing anything. Some sites use a concept of voting to prevent such troublesome posts, while others resort to censorship. A reputation based system is thus developed. Social interaction has taught us that a person's past reputation is often a good proxy to judge the quality of their future work, however, this is not always accurate. This type of resultant branding based on reputation does not determine the true quality of content since the work produced by humans are inconsistent. Other parties try to grab the limited human attention span in the form of advertisements, spam & trolling due to the reliance on a reputation.
+
+	Furthermore, what happens when these votes are replaced by a form of currency? The votes collected now become valuable. Everyone wants to earn more than what they spend. This behavior leads to starvation of the system. One possible solution that some projects have implemented is to provide free signup money as an incentive. However, this can be easily exploited by sybil attacks (where users create multiple accounts) and/or by the use of bots. This results in unfair gaming of the system. 
+
+	Our system makes use of the RESPECT token that can be used by the users to vote for the content that they deem to be of a superior quality. This ensures that the content is reviewed algorithmically by the network and not determined by the reputation of any user. The value of the content is now based solely on the value of the token which is determined and fairly distributed by a proof of work blockchain. This prevents the branding of any user as a good content creator while at the same time discourages ads, spam and trolls.
+	
+
+
+SPECIFICATION
+	Name: Respectonomy
+	Token: RESPECT
+	Symbol: RES
+	Algorithm: Proof of Work, SHA-256
+	Average block time - 2 min
+	block reward - 16 per block
+	halving - every 525600 blocks (approx. every 2 years) till block reward is 1 RESPECT, constant for every block hence.
+	difficulty retarget - Moving average based on the last 2016 blocks.
+
+
+ROADMAP
+	Q3 2016 - Conceptualization
+	Q4 2016 - Website Launch
+	Q4 2016 - Whitepaper
+	Q1 2017 - ICO Launch
+	Q1 2017 - Testnet Launch
+
+
+SOCIAL LINKS
+	website			https://respectonomy.com
+	twitter			https://twitter.com/respectonomy
+	slack			https://respectonomy.herokuapp.com/
+	facebook		https://facebook.com/respectonomy
+	telegram 		https://telegram.me/respectonomy
+
+
+GENERAL FAQs
+
+
+
+TEAM (with contact details)
+	Founder: Miss Budchai
+	FireBird (Developer) (twitter.com/firebird2490)
+	Thunder Bolt (Developer) (twitter.com/thunderbolt256)
+	Ninjitsu Scorpion (Web Developer)
+	Red Sonja (Digital Marketer)
+	Fantastic Mr. Fox (Trading Specialist)
+	Asterix (Strategic Head)
+
